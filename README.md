@@ -22,9 +22,9 @@ as to be able to advice the organization if there's any gap noticed.
 ### Data Source
 
 There are two data set used for this analysis:
-The HR employee data: "Palmoria Group emp-data.csv" contained detailed information about each employee of the organization
+The HR employee data: "Palmoria Group emp-data(1).csv" contained detailed information about each employee of the organization
 
-Palmoria Group Bonus Rules: "Palmoria Group Bonus Rules.xlsx"  contains rules for making bonus payments by the organization.
+Palmoria Group Bonus Rules: "Palmoria Group Bonus Rules(1).xlsx"  contains rules for making bonus payments by the organization.
 
 ### Tools
 
