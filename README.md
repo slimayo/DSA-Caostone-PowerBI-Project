@@ -1,4 +1,4 @@
-# DSA-Caostone-PowerBI-Project
+# DSA-Capstone-PowerBI-Project
 Documentation of DSA PowerBI Project
 
 ## Table of Content
