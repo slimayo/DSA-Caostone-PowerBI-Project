@@ -1,6 +1,18 @@
 # DSA-Caostone-PowerBI-Project
 Documentation of DSA PowerBI Project
 
+## Table of Content
+
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](data-cleaning/preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Findings](#findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+
 ### Project Overview
 
 This data analysis project aims to provide deep insights into gender-related issues within the organization and its regions.
