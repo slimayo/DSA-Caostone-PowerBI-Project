@@ -28,8 +28,8 @@ Palmoria Group Bonus Rules: "Palmoria Group Bonus Rules.xlsx"  contains rules fo
 
 ### Tools
 
-- PowerBI - For data cleaning, creating reports and visualization
-    [Download Here](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads?ocid=ORSEARCH_Bing&msockid=0739cabe1905633c0ca7de41184262b6)
+PowerBI - For data cleaning, creating reports and visualization
+-  [Download Here](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads?ocid=ORSEARCH_Bing&msockid=0739cabe1905633c0ca7de41184262b6)
 
 ### Data Cleaning/Preparation
 
