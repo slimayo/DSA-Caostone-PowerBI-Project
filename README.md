@@ -60,11 +60,6 @@ Include some interesting DAX (Data Analysis Expression) functions e.g
 Total Emp= COUNTROWS('Palmoria Group emp-data')
 ```
 
-### Dashboard Screenshots
-
-The screenshot are arranged according to the order of the pointers given
-
-1. <img src="C:\Users\PC\Pictures\Screenshots\Screenshot 2025-07-05 221236.png" alt="Gender distribution">
 
 ### Findings
 
