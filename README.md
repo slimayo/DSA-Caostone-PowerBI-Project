@@ -72,7 +72,12 @@ Total Emp= COUNTROWS('Palmoria Group emp-data')
 | Rating based on gender              | <img src="image/very good.png" width="400"> |
 | Rating based on gender              | <img src="image/not rated.png" width="400"> |
 | Rating based on gender              | <img src="image/very poor.png" width="400"> |
-
+| Salary by gender                    | <img src="image/salary by gender.png" width="400"> |
+| Salary by location                  | <img src="image/salary by location.png" width="400"> |
+| Regulation                          | <img src="image/regulations rating.png" width="400"> |
+| salary band                         | <img src="image/salary band.png" width="400"> |
+| Employee by Salary band example     | <img src="image/110-120.png" width="400"> |
+| Salary band by location             | <img src="image/Screenshot 2025-07-232618.png" width="400"> |
                                       
 
 
