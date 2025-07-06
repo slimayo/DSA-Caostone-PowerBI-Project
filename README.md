@@ -63,8 +63,18 @@ Total Emp= COUNTROWS('Palmoria Group emp-data')
 
 | Title                               | Preview |
 |-------------------------------------|---------|
-| Gender gender distribution.png      | ![](Screenshots/Gender%20Overview.jpg) |
-| Gender by Region                    | ![](Screenshots/Gender%20by%20Region.jpg) |
+| Gender gender distribution          | <img src="image/gender distribution.png.png" width="400"> |
+| Gender by Region                    | <img src="image/Gender distribution by region.png" width="400"> |
+| Gender by Department                | <img src="image/Gender distribution by department.png" width="400"> |
+| Rating based on gender              | <img src="image/By average.png" width="400"> |
+| Rating based on gender              | <img src="image/good.png" width="400"> |
+| Rating based on gender              | <img src="image/poor.png" width="400"> |
+| Rating based on gender              | <img src="image/very good.png" width="400"> |
+| Rating based on gender              | <img src="image/not rated.png" width="400"> |
+| Rating based on gender              | <img src="image/very poor.png" width="400"> |
+
+                                      
+
 
 ### Findings
 
