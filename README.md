@@ -59,7 +59,12 @@ Include some interesting DAX (Data Analysis Expression) functions e.g
 ```DAX
 Total Emp= COUNTROWS('Palmoria Group emp-data')
 ```
+### Screenshots
 
+| Title                               | Preview |
+|-------------------------------------|---------|
+| Gender gender distribution.png      | ![](Screenshots/Gender%20Overview.jpg) |
+| Gender by Region                    | ![](Screenshots/Gender%20by%20Region.jpg) |
 
 ### Findings
 
