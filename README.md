@@ -77,7 +77,9 @@ Total Emp= COUNTROWS('Palmoria Group emp-data')
 | Regulation                          | <img src="image/regulations rating.png" width="400"> |
 | salary band                         | <img src="image/salary band.png" width="400"> |
 | Employee by Salary band example     | <img src="image/110-120.png" width="400"> |
-| Salary band by location             | <img src="image/Screenshot 2025-07-232618.png" width="400"> |
+| Salary band by location             | <img src="image/Screenshot 2025-07-05 232700.png" width="400"> |
+| Employee bonus example              | <img src="image/Screenshot 2025-07-05 232508.png" width="400"> |
+| Total Salary                        | <img src="image/Screenshot 2025-07-05 232700.png" width="400"> |
                                       
 
 
